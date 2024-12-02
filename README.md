@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h2>Enatega Multi Vendor Food Delivery System</h2>
+  <h2>food recipes app made using android studio</h2>
   <i>The food delivery and order management system for the future.</i>
  <br/>
 <br />
@@ -83,9 +83,9 @@ Our solution is open source but the backend and API are proprietary, and can be 
 
 Our food delivery system also comes with the following:
 
-- Enatega Multi vendor Customer App
-- Enatega Multi vendor Rider App
-- Enatega Multi vendor Restaurant App
+- food recipes app made using android studio Customer App
+- food recipes app made using android studio Rider App
+- food recipes app made using android studio Restaurant App
 - Customer Food Ordering Website
 - Admin Web Dashboard
 - Application ProgramInterface Server
@@ -197,7 +197,7 @@ NOTE: Email provider has been only been tested for gmail accounts
 
 ## :book: Documentation <a id="heading-8"></a>
 
-Find the link for the complete documentation of the Enatega Multi Vendor Solution [here](https://enatega.com/multivendor-documentation/).
+Find the link for the complete documentation of the food recipes app made using android studio [here](https://enatega.com/multivendor-documentation/).
 
 ## :tv: Demo Videos: <a id="heading-14"></a>
 
@@ -227,4 +227,4 @@ The frontend source code for our solution is completely open source. However, th
 
 ## :mailbox_with_mail: Contact Us: <a id="heading-13"></a>
 
-[Check out the Product Page and Pricing and more for Enatega Multivendor Food Delivery Solution](https://enatega.com/?utm_source=github&utm_medium=referral&utm_campaign=github_guide&utm_id=12345678)
+[Check out the Product Page and Pricing and more for food recipes app made using android studio](https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=tiffanie-food-recipes-app-android-studio)
